@@ -45,7 +45,7 @@ const Header2 = () => {
 {
     List.map((e)=>{
         return (
-            <span>{e.name}</span>
+            <span key={e.name}>{e.name}</span>
         )
     })
 }

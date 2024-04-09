@@ -7,7 +7,7 @@ const footer = () => {
     {/* <div className='flex border-2 my-14 border-gray-300 rounded-md px-1 py-4 mx-20 justify-between'> */}
      <div className="flex items-center ml-16 gap-28">
         <Image src={"/icon.png"} alt="icon" width={200} height={200} className='w-16 h-18' ></Image>
-     <div className='text-2xl font-bold text-white '>World's leading chain of hotels and homes</div> 
+     <div className='text-2xl font-bold text-white '>Worlds leading chain of hotels and homes</div> 
 
      <div className=' flex items-center gap-5 text-white font-bold text-2xl'>
         <h3>Join our network and grow your business!</h3>
